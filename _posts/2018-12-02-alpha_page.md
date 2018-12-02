@@ -1,5 +1,5 @@
 ---
-title: Alpha_page
+title: "Alpha page"
 date: 2018-12-02
 ---
 
